@@ -86,7 +86,7 @@ nav .menu{
     color: #757575;
     margin-bottom: 30px;
 }
-#banner .banner-content #contact{
+/* #banner .banner-content #contact{
     padding: 14px 23px 17px 23px;
     border: 1px solid #FD6E0A;
     border-radius: 5px;
@@ -94,9 +94,25 @@ nav .menu{
     font-weight: bold;
     background: none;
     color: #FD6E0A;
-}
+} */
 #banner .banner-image img{
     max-width: 585px;
     max-height: 676px;
     vertical-align: middle;
+}
+
+#about{
+    padding: 124px 230px;
+}
+.about-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF8F3;
+}
+.about-container h1{
+    color: #181818;
+    font-weight: bold;
+    font-size: 35px;
 }
