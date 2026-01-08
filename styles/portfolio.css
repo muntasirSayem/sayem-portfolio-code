@@ -30,7 +30,7 @@
     cursor: pointer;
 }
 .section-heading{
-    width: 827px;
+    max-width: 827px;
     text-align: center;
     margin: 0 auto;
 }
@@ -60,7 +60,7 @@
 /* main styles */
 header{
     background: url('../images/developer.png'), url('../images/header_bg.png'), #FFF8F3;
-    background-position: left top, right bottom;
+    background-position: 23px 38px, right bottom;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
